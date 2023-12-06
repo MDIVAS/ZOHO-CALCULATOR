@@ -91,7 +91,7 @@ Note that not all scientific calculators have all of these functions and modes; 
 
 
 
-<img src="https://github.com/MDIVAS/ZOHO-CALCULATOR/assets/127883304/364782b2-da51-4263-afd3-9cb9d39b01a2" alt="Logo" width="640" height="480">
+<img src="https://github.com/MDIVAS/ZOHO-CALCULATOR/assets/127883304/364782b2-da51-4263-afd3-9cb9d39b01a2" alt="Logo" width="540" height="960">
 
 
 
