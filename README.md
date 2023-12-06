@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHO-CALCULATOR">
-    <img src="https://i.pinimg.com/originals/50/da/8c/50da8c44ba216bd8d5c20992bc8ce939.gif" alt="Logo" width="80" height="80">
+    <img src="https://i.pinimg.com/originals/50/da/8c/50da8c44ba216bd8d5c20992bc8ce939.gif" alt="Logo" width="640" height="480">
   </a>
 
   <h3 align="center">ZOHO CALCULATOR </h3>
