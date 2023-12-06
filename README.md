@@ -1,41 +1,27 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/MDIVAS /ZOHO-CALCULATOR ">
+  <a href="https://github.com/MDIVAS/ZOHO-CALCULATOR">
     <img src="https://i.pinimg.com/originals/50/da/8c/50da8c44ba216bd8d5c20992bc8ce939.gif" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ZOHO CALCULATOR </h3>
 
   <p align="center">
-    PROFESSIONAL CALCULATOR FOR ZOHO
+    VIRTUAL SCIENTIFIC CALCULATORS FOR ZOHO 
     <br/>
     <br/>
-    <a href="https://github.com/MDIVAS /ZOHO-CALCULATOR "><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MDIVAS/ZOHO-CALCULATOR"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/MDIVAS /ZOHO-CALCULATOR ">View Demo</a>
+    <a href="https://github.com/MDIVAS/ZOHO-CALCULATOR">View Demo</a>
     .
-    <a href="https://github.com/MDIVAS /ZOHO-CALCULATOR /issues">Report Bug</a>
+    <a href="https://github.com/MDIVAS/ZOHO-CALCULATOR/issues">Report Bug</a>
     .
-    <a href="https://github.com/MDIVAS /ZOHO-CALCULATOR /issues">Request Feature</a>
+    <a href="https://github.com/MDIVAS/ZOHO-CALCULATOR/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/MDIVAS /ZOHO-CALCULATOR /total) ![Contributors](https://img.shields.io/github/contributors/MDIVAS /ZOHO-CALCULATOR ?color=dark-green) ![Forks](https://img.shields.io/github/forks/MDIVAS /ZOHO-CALCULATOR ?style=social) ![Stargazers](https://img.shields.io/github/stars/MDIVAS /ZOHO-CALCULATOR ?style=social) ![Issues](https://img.shields.io/github/issues/MDIVAS /ZOHO-CALCULATOR ) ![License](https://img.shields.io/github/license/MDIVAS /ZOHO-CALCULATOR ) 
-
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
+![Downloads](https://img.shields.io/github/downloads/MDIVAS/ZOHO-CALCULATOR/total) ![Contributors](https://img.shields.io/github/contributors/MDIVAS/ZOHO-CALCULATOR?color=dark-green) ![Forks](https://img.shields.io/github/forks/MDIVAS/ZOHO-CALCULATOR?style=social) ![Stargazers](https://img.shields.io/github/stars/MDIVAS/ZOHO-CALCULATOR?style=social) ![Issues](https://img.shields.io/github/issues/MDIVAS/ZOHO-CALCULATOR) ![License](https://img.shields.io/github/license/MDIVAS/ZOHO-CALCULATOR) 
 
 ## About The Project
 
@@ -86,40 +72,9 @@ Note that not all scientific calculators have all of these functions and modes; 
 NOTE: THIS IS ONLY CONCEPT 
 THE ACTUAL PROJECT WILL BE BUILT ON ANDROID STUDIO
 
-## Getting Started
 
 
-### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-
-* npm
-
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-
-2. Clone the repo
-
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-
-3. Install NPM packages
-
-```sh
-npm install
-```
-
-4. Enter your API in `config.js`
-
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
 
 ## Usage
 
@@ -153,8 +108,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/MDIVAS /ZOHO
 
 * **MDIVAS** - ** - [MDIVAS]() - **
 
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
