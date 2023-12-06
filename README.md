@@ -77,6 +77,22 @@ Statistical functions: mean, standard deviation, variance, linear regression, co
 Note that not all scientific calculators have all of these functions and modes; only the Zoho calculator has them.
 
 
+## UNIQUE FEATURES 
+
+### 1. USING ZOHO CALCULATOR, YOU CAN CREATE YOUR OWN FORMULA WITH SIMPLE VARIABLE AND WITH ANY OPERATOR, ALSO YOU CAN SAVE AND USE IT WHENEVER YOU WANT
+
+### 2.ZOHO CALCULATOR WILL HAVE NUMBERS AND OPERATORS BASED ON DIFFERENT LANGUAGE AND SCRIPTS 
+
+
+
+## PREVIEW 
+
+
+
+
+
+<img src="https://github.com/MDIVAS/ZOHO-CALCULATOR/assets/127883304/364782b2-da51-4263-afd3-9cb9d39b01a2" alt="Logo" width="640" height="480">
+
 
 
 
